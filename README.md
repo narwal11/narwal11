@@ -1,4 +1,15 @@
 ## Hi there 👋
+Second-year Computer Science student at Stevens Institute of Technology
+
+- Building personal projects to sharpen full-stack/systems skills
+- Looking to contribute to open source projects
+- Learning new languages (machine, assembly, or high  level)
+
+Languages:
+Java, Python, C++, Scheme, Visual Basic
+
+Connect: 
+[LinkedIn](www.linkedin.com/in/arav-narwal-8b58b8314) [Email](narwalarav@gmail.com)
 
 <!--
 **narwal11/narwal11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
