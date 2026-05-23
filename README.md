@@ -1,14 +1,14 @@
-## Hi there 👋
+## Hello, I am Arav
 Second-year Computer Science student at Stevens Institute of Technology
 
 - Building personal projects to sharpen full-stack/systems skills
 - Looking to contribute to open source projects
 - Learning new languages (machine, assembly, or high  level)
 
-Languages:
+## Languages:
 Java, Python, C++, Scheme, Visual Basic
 
-Connect: 
+## Connect: 
 [LinkedIn](www.linkedin.com/in/arav-narwal-8b58b8314) [Email](narwalarav@gmail.com)
 
 <!--
