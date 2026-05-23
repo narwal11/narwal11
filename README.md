@@ -9,7 +9,7 @@ Second-year Computer Science student at Stevens Institute of Technology
 Java, Python, C++, Scheme, Visual Basic
 
 ## Connect: 
-[LinkedIn](www.linkedin.com/in/arav-narwal-8b58b8314) [Email](narwalarav@gmail.com)
+[LinkedIn](www.linkedin.com/in/arav-narwal-8b58b8314) [Email](mailto:narwalarav@gmail.com)
 
 <!--
 **narwal11/narwal11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
